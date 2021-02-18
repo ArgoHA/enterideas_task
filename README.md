@@ -4,7 +4,7 @@ Completed task for enterideas.com
 Задача - определить, есть ли на изображении святой Георгий, или нет.
 Для воспроизведения нужно скачать репозиторий и иметь установленный python ^3.7.1. Далее установим зависимости.
 
-При наличии Poetry: poetry install
+При наличии Poetry: открыть папку poetry и воспользоваться командой poetry install
 
 Если нет Poetry: pip install porto-task
 
